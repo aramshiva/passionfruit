@@ -1,0 +1,9 @@
+{
+  "temperature": 25.5,
+  "pressure": 1013.25,
+  "humidity": 60.2,
+  "light": 500,
+  "proximity": 10,
+  "analog_gas": 0.75,
+  "particulate_matter": 2.5
+}
